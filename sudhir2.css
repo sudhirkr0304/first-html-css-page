@@ -1,0 +1,17 @@
+h2
+{
+	background-color:#AFEEEE;
+}
+
+table, tr,th,td
+{
+	border:1px solid black;
+	border-collapse:collapse;
+}
+
+img
+{
+	width:150;
+	height:150;
+	
+}
